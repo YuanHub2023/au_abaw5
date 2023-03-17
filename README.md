@@ -1,4 +1,4 @@
-# Multimodal Information Fusion for Action Unit Detection in the 5th ABAW
+# Multimodal Information Fusion for Action Unit Detection in the 5th ABAW Competition
 
 ## Quick Start Examples
 
